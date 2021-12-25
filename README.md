@@ -1,6 +1,6 @@
-- 👋 Welcome to @dynac-source and the new DYNAC home page!
+- 👋 Welcome to the new DYNAC home page!
 - 👀 Please feel free to check this page out if you're interested in a freeware linear accelerator beam dynamics program (open source code, works on MAC, Windows and Linux).
-- 🌱 I’m currently learning how to use git-hub (this page is work in progress)
+- 🌱 This git-hub page is work in progress.
 - 💞️ Let me know if you're looking to collaborate on the further development of DYNAC.
 - 📫 You can reach me at dynacatgithub at gmail.com
 
