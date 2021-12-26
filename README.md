@@ -17,7 +17,7 @@ With the release of DYNAC V6R8, a numerical method became available in addition 
 
 DYNAC has several space charge routines, including a 3D space charge routine called HERSC [^5]. This routine derives from the typical procedure adopted in mathematical physics; the problem is transposed from some point to point correspondence onto a functional space spanned by a finite sequence of 3D Hermite functions, where the analytical set of beam self-field equations is found without any sort of restriction or basic hypothesis. 
 
-You can download DYNAC and its Graphical User Interface DGUI from the [DYNAC download page](https://github.com/dynac-source/DYNAC-download/blob/main/README.md#dynac-download)  
+You can download DYNAC and its Graphical User Interface DGUI from the [DYNAC V7R1 download page](https://github.com/dynac-source/DYNAC-download/blob/main/README.md#dynac-v7r1-download)  
 
 **MORE INFORMATION**  
 More information on DYNAC can be found in the following presentations:  
