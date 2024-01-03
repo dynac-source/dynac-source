@@ -20,7 +20,6 @@ DYNAC has several space charge routines, including a 3D space charge routine cal
 You can download DYNAC and its Graphical User Interface DGUI from the [DYNAC V7R2 download page](https://github.com/dynac-source/DYNAC-download) 
 
 **Older revisions of DYNAC**  
-More information on DYNAC:  
 You can download DYNAC V7R1 and its Graphical User Interface DGUI from the [DYNAC V7R1 download page](https://github.com/dynac-source/DYNAC-download-V7R1)
 
 **MORE INFORMATION**  
