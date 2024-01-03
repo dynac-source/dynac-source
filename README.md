@@ -21,7 +21,7 @@ You can download DYNAC and its Graphical User Interface DGUI from the [DYNAC V7R
 
 **Older revisions of DYNAC**  
 More information on DYNAC:  
-You can download DYNAC V7R1 and its Graphical User Interface DGUI from the [DYNAC V7R1 download page](https://github.com/dynac-source/DYNAC-download/blob/main/README.md#dynac-v7r1-download) 
+You can download DYNAC V7R1 and its Graphical User Interface DGUI from the [DYNAC V7R1 download page](https://github.com/dynac-source/DYNAC-download-V7R1)
 
 **MORE INFORMATION**  
 More information on DYNAC can be found in the following presentations:  
@@ -44,3 +44,6 @@ Email: dynacatgithub at gmail.com
 [^3]: [LINAC2014 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2014_thpp043.pdf) (PDF format)  
 [^4]: [LINAC2016 Conference paper on DYNAC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2016_MOPRC007.pdf) (PDF format)  
 [^5]: [LINAC2002 Conference paper on HERSC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2002_TH424.PDF) (PDF format)  
+
+**Date of most recent page update**  
+03-Jan-2024
