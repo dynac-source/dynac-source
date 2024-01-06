@@ -45,4 +45,4 @@ Email: dynacatgithub at gmail.com
 [^5]: [LINAC2002 Conference paper on HERSC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2002_TH424.PDF) (PDF format)  
 
 **Date of most recent page update**  
-03-Jan-2024
+06-Jan-2024
