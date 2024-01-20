@@ -1,7 +1,7 @@
 - 👋 Welcome to the new DYNAC home page!
 - 👀 Please feel free to check this page out if you're interested in a freeware linear accelerator beam dynamics program (open source code, works on MAC, Windows and Linux).
 - 🌱 This git-hub page is work in progress.
-- 💞️ Let me know if you're looking to collaborate on the further development of DYNAC.
+- 💞️ Let me know if you're looking to collaborate on the further development of DYNAC (contact information is at the bottom of this page).
 - 📫 You can reach me at dynacatgithub at gmail.com
 
 <!---
@@ -45,4 +45,4 @@ Email: dynacatgithub at gmail.com
 [^5]: [LINAC2002 Conference paper on HERSC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2002_TH424.PDF) (PDF format)  
 
 **Date of most recent page update**  
-06-Jan-2024
+20-Jan-2024
