@@ -23,6 +23,7 @@ You can **download DYNAC and its Graphical User Interface DGUI** from the [DYNAC
 You can download  
 DYNAC V7R1 and its Graphical User Interface DGUI from the [DYNAC V7R1 download page](https://github.com/dynac-source/DYNAC-download-V7R1#dynac-v7r1-download).  
 DYNAC V7R2 and its Graphical User Interface DGUI from the [DYNAC V7R2 download page](https://github.com/dynac-source/DYNAC-download-V7R2#dynac-v7r2-download).  
+DYNAC V7R2 and its Graphical User Interface DGUI from the [DYNAC V7R2 download page](https://github.com/dynac-source/DYNAC-download-V7R2?tab=readme-ov-file#dynac-download-v7r2).   
 Please scroll down to the README section of the relevant page, if the link doesn't take you there directly.  
 
 **MORE INFORMATION**  
