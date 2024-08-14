@@ -20,7 +20,10 @@ DYNAC has several space charge routines, including a 3D space charge routine cal
 You can **download DYNAC and its Graphical User Interface DGUI** from the [DYNAC V7R2 download page](https://github.com/dynac-source/DYNAC-download#dynac-v7r2-download). Please scroll down to the README section of that page, if this link doesn't take you there directly.  
 
 **Older revisions of DYNAC**  
-You can download DYNAC V7R1 and its Graphical User Interface DGUI from the [DYNAC V7R1 download page](https://github.com/dynac-source/DYNAC-download-V7R1#dynac-v7r1-download). Please scroll down to the README section of that page, if this link doesn't take you there directly.  
+You can download  
+DYNAC V7R1 and its Graphical User Interface DGUI from the [DYNAC V7R1 download page](https://github.com/dynac-source/DYNAC-download-V7R1#dynac-v7r1-download).  
+DYNAC V7R2 and its Graphical User Interface DGUI from the [DYNAC V7R2 download page](https://github.com/dynac-source/DYNAC-download-V7R2#dynac-v7r2-download).  
+Please scroll down to the README section of the relevant page, if the link doesn't take you there directly.  
 
 **MORE INFORMATION**  
 More information on DYNAC can be found in the following presentations:  
@@ -45,4 +48,4 @@ Email: dynacatgithub at gmail.com
 [^5]: [LINAC2002 Conference paper on HERSC](https://github.com/dynac-source/DYNAC-download/blob/main/LINAC2002_TH424.PDF) (PDF format)  
 
 **Date of most recent page update**  
-20-Jan-2024
+15-Aug-2024
