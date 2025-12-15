@@ -20,7 +20,7 @@ The source code for V8R0 was changed to f08, another step towards more modern Fo
 
 DYNAC has several space charge routines, including a 3D space charge routine called HERSC [^5]. This routine derives from the typical procedure adopted in mathematical physics; the problem is transposed from some point to point correspondence onto a functional space spanned by a finite sequence of 3D Hermite functions, where the analytical set of beam self-field equations is found without any sort of restriction or basic hypothesis. 
 
-**13-Dec-2025**: You will be able to **download DYNAC V8 and its Graphical User Interface DGUI** soon from the [DYNAC V8R0 download page](https://github.com/dynac-source/DYNAC-download-V8R0/blob/main/README.md) <br/>
+**13-Dec-2025**: You will be able to **download DYNAC V8 and its Graphical User Interface DGUI V3** soon from the [DYNAC V8R0 download page](https://github.com/dynac-source/DYNAC-download-V8R0/blob/main/README.md) <br/>
 DYNAC V7 [DYNAC V7R5 download page](https://github.com/dynac-source/DYNAC-download-V7R5?tab=readme-ov-file#dynac-download-v7r5) will be replaced soon by DYNAC V8 [DYNAC V8R0 download page](https://github.com/dynac-source/DYNAC-download?tab=readme-ov-file#DYNAC-download-V8R0). Please scroll down to the README section of that page, if this link doesn't take you there directly.  
 
 **Older revisions of DYNAC**  
