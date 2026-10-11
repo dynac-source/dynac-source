@@ -5,8 +5,6 @@
 If you're interested in collaborating on the further development of DYNAC please write to 
 - 📫 dynacatgithub at gmail.com
 
-This page is being updated: dynacv8r1 will be released soon!
-
 <!---
 dynac-source/dynac-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
